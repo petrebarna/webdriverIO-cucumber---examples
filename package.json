@@ -1,0 +1,19 @@
+{
+  "name": "webdriverio-cucumber-examples",
+  "version": "1.0.0",
+  "description": "examples of automated tests using webdriverIO with Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrebarna/webdriverIO-cucumber---examples.git"
+  },
+  "author": "Petre Barna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrebarna/webdriverIO-cucumber---examples/issues"
+  },
+  "homepage": "https://github.com/petrebarna/webdriverIO-cucumber---examples#readme"
+}
